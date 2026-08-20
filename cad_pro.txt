@@ -1,0 +1,7 @@
+Cadastro de Produtos
+
+Código:1
+Descrição:Chave de fenda
+Categoria:Ferramentas
+Valor:R$30.00
+Estoque:10
